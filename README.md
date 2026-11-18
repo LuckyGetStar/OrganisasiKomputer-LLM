@@ -31,7 +31,7 @@ Dataset memiliki 72 sampel pasien dan 7.129 fitur ekspresi gen.
 Pembagian dataset terdiri dari:
 - Training Set: 38 sampel pasien.
 - Independent Test Set: 34 sampel pasien.
-- 
+
 Dataset terdiri dari tiga file utama:
 **a. data_set_ALL_AML_train.csv**
 Berisi data ekspresi gen dari 38 sampel pasien yang digunakan untuk preprocessing, standardisasi, seleksi fitur, dan penyediaan contoh pada pendekatan Few-Shot.
